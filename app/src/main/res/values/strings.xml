@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Diary</string>
+
+    <string-array name="Moneys">
+        <item>교통비</item>
+        <item>숙박비</item>
+        <item>식비</item>
+        <item>기타</item>
+    </string-array>
+</resources>
